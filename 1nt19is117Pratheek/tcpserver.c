@@ -1,25 +1,4 @@
-tcpserver.c
-Who has access
-Not shared
-System properties
-Type
-C
-Size
-2 KB
-Storage used
-2 KB
-Location
-My Drive
-Owner
-me
-Modified
-2:01 PM by me
-Opened
-2:08 PM by me
-Created
-2:01 PM with Google Drive
-Add a description
-Viewers can download
+
 
 #include<stdio.h>
 #include<stdlib.h>
